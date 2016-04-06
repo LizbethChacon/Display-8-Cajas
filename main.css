@@ -5,29 +5,23 @@ div{
 	width:50px;
 	margin: 5px;
 	padding: 25px;
-
 }
-
 #inicio{
 	display: block;
 }
-
 .uno{
 	display: inline-block;
 	margin: 10px;
 }
-
 .dos{
 	display: inline-block;
 }
-
 .contenedor{
 	display:block;
 	width: 380px;
 	height: 120px;
 	padding: 5px;
 }
-
 #final{
 	display: block;
 }
